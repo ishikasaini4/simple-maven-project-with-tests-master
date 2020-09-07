@@ -33,7 +33,6 @@ public class OtherTest extends Base {
 	@Test
 	public void mytest() {
 		run();
-		assertEquals(1, factorial(1));
 	}
 
 }
